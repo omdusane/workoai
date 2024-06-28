@@ -40,6 +40,10 @@ npm install
 ```
 npm run dev
 ```
+3. Server Endpoint
+```
+http://127.0.0.1:6000/
+```
 
 ## API Endpoints
 *Use username and password from .env to access all the routes*
